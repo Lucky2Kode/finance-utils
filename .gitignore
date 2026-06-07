@@ -6,9 +6,8 @@ __pycache__/
 venv/
 .env
 
-# Outputs (generated files — not committed)
-outputs/*.xlsx
-outputs/*.csv
+# Outputs (exclude only live-fetched data files)
+outputs/stocks.xlsx
 outputs/Unparsed.txt
 
 # macOS
