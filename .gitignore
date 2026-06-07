@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Outputs (generated files — not committed)
+outputs/*.xlsx
+outputs/*.csv
+outputs/Unparsed.txt
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
